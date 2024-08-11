@@ -1,4 +1,4 @@
-# Multi_Criteria_Decision_Making-MCDM-
+# Multi_Criteria_Decision_Making-MCDM
 Discussing different weighting and ranking algorithms in MCDM using python
 Weighting and ranking methods are essential components of multi-criteria decision-making (MCDM) processes, which involve evaluating and selecting the best alternative from a set of options based on multiple criteria or attributes. These methods help decision-makers assign importance to criteria and rank alternatives accordingly, facilitating informed decision-making in complex situations.
 
